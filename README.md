@@ -2,7 +2,9 @@
 
 Supplementary artifacts accompanying the manuscript prepared for EDBT 2027.
 
-**Authors:** Kexiao Zhang, Shiyin Wang, Siyu Zhan, and Zhao Kang.
+**Authors (manuscript order):** Siyu Zhan, Kexiao Zhang, Shiyin Wang, and Zhao Kang.
+
+**Submission primary contact:** Siyu Zhan (zhansy@uestc.edu.cn).
 
 DPR (Decision Preservation Replay) selects historical queries whose plan rankings are at risk during model adaptation and preserves execution-derived plan preferences under a fixed replay budget. This repository distributes the archived implementation and recorded experimental evidence used in the manuscript.
 
